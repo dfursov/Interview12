@@ -1,0 +1,19 @@
+#container{
+    display: flex;
+}
+
+#div1{
+    background-color: LightBlue;
+    width: 200px;
+    padding: 25px;
+    border: 25px solid navy;
+    margin: 25px;
+}
+
+.div2{
+    background-color: IndianRed; 
+    width: 200px;
+    padding: 25px;
+    border: 25px solid fuchsia;
+    margin: 25px;  
+}
